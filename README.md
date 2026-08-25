@@ -9,12 +9,12 @@ Hello reader, ill show you how to **Safe** Download, Installing and How to Trans
 ####
 
 1. How Download FileZilla Safely.
-  1. Open your browser.
-  2. Go to the official [FileZilla](https://filezilla-project.org/) website.
-  3. Click Download FileZilla Client.
-  4. Make sure you are downloading from the official website, not a random third-party website.
-  5. Choose the version for your operating system: Windows, macOS, or Linux.
-  6. Open the installer after the download is complete.
+  * Open your browser.
+  * Go to the official [FileZilla](https://filezilla-project.org/) website.
+  * Click Download FileZilla Client.
+  * Make sure you are downloading from the official website, not a random third-party website.
+  * Choose the version for your operating system: Windows, macOS, or Linux.
+  * Open the installer after the download is complete.
 
 2. Install FileZilla
   1. Run the FileZilla installer.

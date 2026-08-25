@@ -17,18 +17,59 @@ Hello reader, ill show you how to **Safe** Download, Installing and How to Trans
   * Open the installer after the download is complete.
 
 2. Install FileZilla
-  1. Run the FileZilla installer.
-  2. Follow the installation instructions and click Next.
-  3. Carefully check any additional offers or software before accepting them.
-  4. Choose the installation location if needed.
-  5. Click Install.
-  6. When finished, click Finish.
-  7. Open FileZilla.
+  * Run the FileZilla installer.
+  * Follow the installation instructions and click Next.
+  * Carefully check any additional offers or software before accepting them.
+  * Choose the installation location if needed.
+  * Click Install.
+  * When finished, click Finish.
+  * Open FileZilla.
+
+3. Connect to an FTP/SFTP Server
+
+*Open FileZilla.
+
+*Enter your server information: <br/> Host: Server address<br/>
+Username: Your username <br/>
+Password: Your password <br/>
+Port: The server's port <br/>
 
 
-![IMG](<img width="902" height="779" alt="image" src="https://github.com/user-attachments/assets/6ee4143a-b19a-461f-8898-39bf7b973978" />
-)
 
+Use SFTP instead of regular FTP if the server supports it, because it is more secure.
+
+Click Quickconnect.
+
+Once connected, the server's files will appear on the right side.
+
+4. Transfer Files
+
+Left side = files on your computer (Local site).
+
+Right side = files on the server (Remote site).
+
+To upload: drag files from left → right.
+
+To download: drag files from right → left.
+
+Wait until the transfer is complete.
+
+Check the bottom section of FileZilla to see the transfer status.
+
+5. Safety Tips
+
+Only download FileZilla from the official website.
+
+Use SFTP instead of regular FTP when available.
+
+Never share your server username or password.
+
+Do not upload files you do not trust.
+
+Disconnect from the server when you are finished.
+
+
+![IMG](https://upload.wikimedia.org/wikipedia/commons/9/95/FileZilla_3.7.3.png)
 
 
 

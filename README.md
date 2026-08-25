@@ -26,13 +26,13 @@ Hello reader, ill show you how to **Safe** Download, Installing and How to Trans
   * Open FileZilla.
 
 3. Connect to an FTP/SFTP Server
+  * Open FileZilla.
 
-*Open FileZilla.
-
-*Enter your server information: <br/> Host: Server address<br/>
-Username: Your username <br/>
-Password: Your password <br/>
-Port: The server's port <br/>
+  * Enter your server information:
+    Host: Server address<br/>
+    Username: Your username <br/>
+    Password: Your password <br/>
+    Port: The server's port <br/>
 
 
 

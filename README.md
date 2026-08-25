@@ -27,46 +27,28 @@ Hello reader, ill show you how to **Safe** Download, Installing and How to Trans
 
 3. Connect to an FTP/SFTP Server
   * Open FileZilla.
-
   * Enter your server information:
-    Host: Server address<br/>
-    Username: Your username <br/>
-    Password: Your password <br/>
-    Port: The server's port <br/>
-
-
-
-Use SFTP instead of regular FTP if the server supports it, because it is more secure.
-
-Click Quickconnect.
-
-Once connected, the server's files will appear on the right side.
+     Host: Server address<br/>
+     Username: Your username <br/>
+     Password: Your password <br/>
+     Port: The server's port <br/>
+  * Use SFTP instead of regular FTP if the server supports it, because it is more secure.
+  * Click Quickconnect.
+  * Once connected, the server's files will appear on the right side.
 
 4. Transfer Files
-
-Left side = files on your computer (Local site).
-
-Right side = files on the server (Remote site).
-
-To upload: drag files from left → right.
-
-To download: drag files from right → left.
-
-Wait until the transfer is complete.
-
-Check the bottom section of FileZilla to see the transfer status.
-
+  * Left side = files on your computer (Local site).
+  * Right side = files on the server (Remote site).
+  * To upload: drag files from left → right.
+  * To download: drag files from right → left.
+  * Wait until the transfer is complete.
+  * Check the bottom section of FileZilla to see the transfer status.
 5. Safety Tips
-
-Only download FileZilla from the official website.
-
-Use SFTP instead of regular FTP when available.
-
-Never share your server username or password.
-
-Do not upload files you do not trust.
-
-Disconnect from the server when you are finished.
+  * Only download FileZilla from the official website.
+  * Use SFTP instead of regular FTP when available.
+  * Never share your server username or password.
+  * Do not upload files you do not trust.
+  * Disconnect from the server when you are finished.
 
 
 ![IMG](https://upload.wikimedia.org/wikipedia/commons/9/95/FileZilla_3.7.3.png)

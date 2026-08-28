@@ -1,7 +1,7 @@
 # FileZilla-tek-dok
 
 ## FileZilla dokumentasjon.
-Hello reader, ill show you how to **Safe** Download, Installing and How to Transfer File in [FileZilla](https://filezilla-project.org/)
+_Hello reader_, ill show you how to **Safe** Download, Installing and How to *Transfer* File in [FileZilla](https://filezilla-project.org/)
 
 ###
 ![FileZilla](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/250px-FileZilla_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
@@ -11,7 +11,7 @@ Hello reader, ill show you how to **Safe** Download, Installing and How to Trans
 1. How Download FileZilla Safely.<br>
   * Open your browser.
   * Go to the official [FileZilla](https://filezilla-project.org/) website.
-  * Click Download FileZilla Client.
+  * Click Download __FileZilla__ Client.
   * Make sure you are downloading from the official website, not a random third-party website.
   * Choose the version for your operating system: Windows, macOS, or Linux.
   * Open the installer after the download is complete.

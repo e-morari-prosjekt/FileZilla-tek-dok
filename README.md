@@ -39,8 +39,8 @@ _Hello reader_, ill show you how to **Safe** Download, Installing and How to *Tr
 4. Transfer Files
   * Left side = files on your computer (Local site).
   * Right side = files on the server (Remote site).
-  * To upload: drag files from left → right.
-  * To download: drag files from right → left.
+  * To upload: drag files from left to right.
+  * To download: drag files from right to left.
   * Wait until the transfer is complete.
   * Check the bottom section of FileZilla to see the transfer status.
 5. Safety Tips
